@@ -1,1 +1,2 @@
-# Canadian_Diabetes_Statistical_Analysis
+# Canadian_Diabetes_Statistical_Analysis 
+This program is dedicated to analyzing official diabetes statistics from Statistics Canada through the quick and effecient use of C programming. As such, this code is able to determine the average diabetes rate for each listed province in Canada, the national average, the yearly average, and the age group most susceptible to getting diabetes. These analyzed results provide solid foundation in making inferences about the living conditions of Canadian citizen in each of the listed provinces and the possible reasons for the disproportionate diabetes statistics among the different provinces and age groups.
